@@ -1,6 +1,6 @@
 ## Hola! :)
 
-<h4 align="left">My name is Dulce María Montero Rasgado, and I'm a Master's student in Bioinformatics for Computational Genomics at Politecnico di Milano, Italy </h4>
+<h4 align="left">I'm Dulce María Montero, and I'm a Master's student in Bioinformatics for Computational Genomics at Politecnico di Milano, Italy </h4>
 
 <br>
 
