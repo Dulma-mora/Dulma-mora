@@ -1,9 +1,7 @@
 ## Hola! :)
 
 <h4 align="left">I'm Dulce María Montero, M.Sc. in Bioinformatics for Computational Genomics (Politecnico di Milano), Italy </h4>
-
 <br>
-
 With a B.Sc. in Biology :seedling: and a strong passion for genome biology and biomedical research, I use computational tools for data pre-processing, statistical analysis, visualization, and interpretation of high-throughput genomic data.
 
 
