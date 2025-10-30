@@ -4,6 +4,7 @@
 <br>
 With a B.Sc. in Biology :seedling: and a strong passion for genome biology and biomedical research, I use computational tools for data pre-processing, statistical analysis, visualization, and interpretation of high-throughput genomic data.
 
+<br>
 
 My current work focuses on analysing **Hi-C data** to investigate **three-dimensional genome architecture** and **radial positioning** within the cell nucleus at BICRO Lab for the Genomics department of the Human Technopole :dna:
 
