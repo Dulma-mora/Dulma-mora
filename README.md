@@ -1,10 +1,10 @@
 ## Hola! :)
 
-<h4 align="left">I'm Dulce María Montero, and I'm a Master's student in Bioinformatics for Computational Genomics at Politecnico di Milano, Italy </h4>
+<h4 align="left">I'm Dulce María Montero, M.Sc. in Bioinformatics for Computational Genomics (Politecnico di Milano), Italy </h4>
 
 <br>
 
-With a B.Sc. in Biology :seedling: and a strong passion in genome biology and biomedical research, I use computational tools for data pre-processing, statistical analysis, visualization, and interpretation of high-throughput genomic data.
+With a B.Sc. in Biology :seedling: and a strong passion for genome biology and biomedical research, I use computational tools for data pre-processing, statistical analysis, visualization, and interpretation of high-throughput genomic data.
 
 
 My current work focuses on analysing **Hi-C data** to investigate **three-dimensional genome architecture** and **radial positioning** within the cell nucleus at BICRO Lab for the Genomics department of the Human Technopole :dna:
